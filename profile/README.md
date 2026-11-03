@@ -30,7 +30,7 @@ these mirrors, and each one is released under the MIT licence.
 
 | | |
 |---|---|
-| **Start here** | [starter](https://github.com/kipchak-dev/starter) · [examples](https://github.com/kipchak-dev/examples) · [core](https://github.com/kipchak-dev/core) · [identity](https://github.com/kipchak-dev/identity) |
+| **Start here** | [starter](https://github.com/kipchak-dev/starter) · [examples](https://github.com/kipchak-dev/examples) · [core](https://github.com/kipchak-dev/core) · [identity](https://github.com/kipchak-dev/identity) · [agent skill](https://github.com/kipchak-dev/skills) |
 | **Foundation** | [config](https://github.com/kipchak-dev/driver-config) · [logger](https://github.com/kipchak-dev/driver-logger) · [http](https://github.com/kipchak-dev/driver-http) · [error](https://github.com/kipchak-dev/middleware-error) |
 | **Data and storage** | [doctrine](https://github.com/kipchak-dev/driver-doctrine) · [couchdb](https://github.com/kipchak-dev/driver-couchdb) · [clickhouse](https://github.com/kipchak-dev/driver-clickhouse) · [vector](https://github.com/kipchak-dev/driver-vector) · [s3](https://github.com/kipchak-dev/driver-s3) · [sftp](https://github.com/kipchak-dev/driver-sftp) · [git](https://github.com/kipchak-dev/driver-git) |
 | **Caching** | [filecache](https://github.com/kipchak-dev/driver-filecache) · [memcached](https://github.com/kipchak-dev/driver-memcached) · [response-cache](https://github.com/kipchak-dev/middleware-response-cache) |
@@ -40,8 +40,9 @@ these mirrors, and each one is released under the MIT licence.
 | **Operations** | [feature-flags driver](https://github.com/kipchak-dev/driver-feature-flags) · [feature-flags middleware](https://github.com/kipchak-dev/middleware-feature-flags) · [cloudflare-dns](https://github.com/kipchak-dev/driver-cloudflare-dns) · [cloudns](https://github.com/kipchak-dev/driver-cloudns) |
 
 Each package's installation, configuration and use are documented on [kipchak.dev](https://kipchak.dev/ecosystem).
-Coding assistants can read the documentation index at [kipchak.dev/llms.txt](https://kipchak.dev/llms.txt), and the
-starter includes an `AGENTS.md` file.
+Coding assistants can install the [Kipchak agent skill](https://github.com/kipchak-dev/skills) (in Claude Code,
+`/plugin marketplace add kipchak-dev/skills`), read the documentation index at
+[kipchak.dev/llms.txt](https://kipchak.dev/llms.txt), and follow the `AGENTS.md` file the starter includes.
 
 ## Kipchak Enterprise
 

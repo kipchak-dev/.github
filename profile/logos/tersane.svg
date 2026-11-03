@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <!-- Bahriya Tersane primary mark, for light grounds. An arsenal facade in
+       Kiln with three pointed arches cut through to the water; the gold point
+       above the centre arch is the gold of the BKE axle. The translate centres
+       the facade vertically in the box. -->
+  <g transform="translate(0 -15)">
+    <path fill="#9C4A2A" fill-rule="evenodd" d="M36,70 H204 V200 H36 Z M94,200 V140 A52,52 0 0 1 120,95 A52,52 0 0 1 146,140 V200 Z M44,200 V150 A40,40 0 0 1 64,115.36 A40,40 0 0 1 84,150 V200 Z M156,200 V150 A40,40 0 0 1 176,115.36 A40,40 0 0 1 196,150 V200 Z"/>
+    <circle cx="120" cy="82" r="6.5" fill="#D4AF37"/>
+  </g>
+</svg>

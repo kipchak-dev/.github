@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <!-- BKE roundel: the mark in its circular container, for avatars,
+       favicons and app icons. The container matches the Mamluk medallion. -->
+  <circle cx="120" cy="120" r="112" fill="#0E3A52"/>
+  <polygon points="120,42 198,120 120,198 42,120" fill="#FBF8F1"/>
+  <rect x="64.85" y="64.85" width="110.3" height="110.3" fill="#FBF8F1"/>
+  <circle cx="120" cy="120" r="17" fill="#0E3A52"/>
+  <circle cx="120" cy="120" r="8.5" fill="#D4AF37"/>
+</svg>
